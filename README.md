@@ -6,6 +6,7 @@ The goal of this analysis is to clean the data set using pandas and to create a 
 
 
 ## Results
-
+f
 ![line_cart](./Resources/tabel.png)
+
 ![line_cart](./analysis//Fig8.png)
